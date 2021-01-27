@@ -1,0 +1,23 @@
+{
+  "name": "awesome-linky-thingy",
+  "version": "1.0.0",
+  "description": "",
+  "author": "Michael Aldridge",
+  "license": "ISC",
+  "dependencies": {
+    "@emotion/react": "^11.1.4",
+    "http-status-codes": "^2.1.4",
+    "next": "^10.0.5",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  },
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.12.10",
+    "@emotion/babel-plugin": "^11.1.2"
+  }
+}
